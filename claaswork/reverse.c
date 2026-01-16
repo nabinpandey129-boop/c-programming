@@ -13,5 +13,5 @@ n/=10;
     printf("reverse=%d",rev);
 
     return 0;
-
+     
 }
