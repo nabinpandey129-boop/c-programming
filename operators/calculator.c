@@ -9,7 +9,7 @@ scanf("%d",&num1);
 printf("enter the num:");
 scanf("%d",&num2);
 
-printf("selct the operators(+,-,*,/)=");
+printf("select the operators(+,-,*,/)=");
 scanf(" %c",&operators);
 res =(operators == '+')?num1+num2:
 (operators == '*')?num1*num2:
