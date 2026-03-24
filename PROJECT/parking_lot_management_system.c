@@ -134,5 +134,5 @@ void processExit() {
     remove("parking_records.dat");
     rename("temp.dat", "parking_records.dat");
 
-    if (!found) printf("\nVehicle not found in system.");
+    if (!found) printf("\nVehicle not found in system."); 
 }
