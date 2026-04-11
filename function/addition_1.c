@@ -30,6 +30,7 @@ int multiply()
   scanf("%d",&b);
   multiply=a*b;
   printf("MULTIPLY=%d\n",multiply);
+  printf("hello");
   return 0;
 }
 
