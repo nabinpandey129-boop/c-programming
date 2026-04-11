@@ -1,2 +1,3 @@
 Voter 12 voted for CandidateB
 Voter 2 voted for CandidateB
+Voter 1 voted for CandidateA
