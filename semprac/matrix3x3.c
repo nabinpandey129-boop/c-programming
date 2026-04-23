@@ -13,7 +13,7 @@ int main()
         scanf("%d",&a[i][j]);
     }
     }
- printf("enter the elemets of second 3x3 matrix:");
+ printf("enter the elemets of second 3x3 matrix:\n");
     for ( i = 0; i <3; i++)
     {
      for ( j = 0; j <3; j++)
